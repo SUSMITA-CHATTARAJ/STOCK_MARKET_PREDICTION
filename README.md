@@ -21,11 +21,17 @@ DATASET DETAILS:
 Predicting Stock prices is a great use case of machine learning both for financial and time series analysis. Tesla has been in the eyes of the world for a long time now as governments of so many countries all over the world are supporting the vision of Tesla. The dataset will be downloaded as “Tesla.csv” from kaggle.com
 
 •	Date – Format of date is: “yy-mm-dd”
+
 •	Open – Price of the stock at open market
+
 •	High – Highest price reached in the day
+
 •	Low – Lowest price reached in the day
+
 •	Close – Price of the stock at the close market
+
 •	Volume – Number of shares traded
+
 •	Name – The name of the stock ticker
 
 WORK FLOW: -
